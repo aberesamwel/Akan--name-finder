@@ -1,10 +1,8 @@
 # Akan Name Generator
-
 Welcome to my Akan Name Generator! This a project where you are being provided a name according to gender and the day you were born
 ## Features
 
 - **Responsive Design:** The website adapts to different screen sizes, providing an optimal viewing experience on desktops, tablets, and mobile devices.
-- **Photo Categories:** Images are organized into categories such as Nature, Urban, and Portraits, allowing visitors to explore different themes.
 - **Image Stories:** Each photo includes a short story or description that appears on hover, offering context and background information.
 - **Modern Styling:** Utilizes advanced CSS techniques including gradients, box shadows, and hover effects for a polished look.
 
@@ -18,7 +16,7 @@ Welcome to my Akan Name Generator! This a project where you are being provided a
 ## Getting Started
 
 To set up the project locally, follow these steps:
-
+S
 1. **Clone the repository:**
 
    ```bash
