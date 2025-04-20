@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Akan Name Finder</title>
+<link rel="stylesheet" href="/styles/styles.css"> 
+</head>
+<body>
+
+<h1>Find Your Akan Name</h1>
+
+<form id="details">
+  <label for="birthdate">Birthdate:</label>
+  <input type="date" id="birthdate" required><br><br>
+
+  <label>Gender:</label><br>
+  <input type="radio" id="male" name="gender" value="male" required>
+  <label for="male">Male</label><br>
+  <input type="radio" id="female" name="gender" value="female" required>
+  <label for="female">Female</label><br><br>
+
+  <button type="submit">Find My Akan Name</button>
+</form>
+
+<div id="results"></div>
+
+<script src = "./src/script.js"></script>
+</body>
+</html>
