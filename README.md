@@ -1,7 +1,6 @@
-# Photography Portfolio Website
+# Akan Name Generator
 
-Welcome to my Photography Portfolio website! This project showcases a collection of my best photography work, organized into various categories with accompanying stories for each image. The website is designed to be modern, responsive, and visually appealing.
-
+Welcome to my Akan Name Generator! This a project where you are being provided a name according to gender and the day you were born
 ## Features
 
 - **Responsive Design:** The website adapts to different screen sizes, providing an optimal viewing experience on desktops, tablets, and mobile devices.
