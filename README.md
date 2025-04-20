@@ -1,9 +1,9 @@
 # Akan Name Generator
-Welcome to my Akan Name Generator! This a project where you are being provided a name according to gender and the day you were born
+Welcome to my Akan Name Generator! This a project where you are being provided a name according to gender and the day you were born in Ghanian languange
 ## Features
 
 - **Responsive Design:** The website adapts to different screen sizes, providing an optimal viewing experience on desktops, tablets, and mobile devices.
-- **Image Stories:** Each photo includes a short story or description that appears on hover, offering context and background information.
+- **Names:**Each name is incolated to days of the week
 - **Modern Styling:** Utilizes advanced CSS techniques including gradients, box shadows, and hover effects for a polished look.
 
 ## Technologies Used
@@ -16,7 +16,7 @@ Welcome to my Akan Name Generator! This a project where you are being provided a
 ## Getting Started
 
 To set up the project locally, follow these steps:
-S
+
 1. **Clone the repository:**
 
    ```bash
@@ -24,7 +24,7 @@ S
 
 Navigate into the project directory:
 
-    cd photography-portfolio
+    cd Akan-Name-Generator
 
     Open index.html in your preferred web browser.
 
@@ -34,7 +34,7 @@ Project Structure
 
     index.html: The main HTML file containing the structure of the website.
     static/style.css: The CSS file for styling the website.
-    public/: A directory containing all the images used in the portfolio.
+    public/: A directory containing all the names used in the Akan Name Generator.
     README.md: This file, providing an overview and setup instructions.
 
 Contributing
@@ -47,4 +47,4 @@ Contact
 
 For any inquiries or feedback, please contact me at [your-email@example.com].
 
-Thank you for visiting my Photography Portfolio website!
+Thank you for visiting my Akan Name Generator!
