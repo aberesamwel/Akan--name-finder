@@ -3,13 +3,13 @@ Welcome to my Akan Name Generator! This a project where you are being provided a
 ## Features
 
 - **Responsive Design:** The website adapts to different screen sizes, providing an optimal viewing experience on desktops, tablets, and mobile devices.
-- **Names:**Each name is incolated to days of the week
+- **Names:**Each name is inculated to days of the week
 - **Modern Styling:** Utilizes advanced CSS techniques including gradients, box shadows, and hover effects for a polished look.
 
 ## Technologies Used
 
-- **HTML5:** For the structure of the website.
-- **CSS3:** For styling and layout, including Flexbox and Grid for responsive design.
+- **HTML:** For the structure of the website.
+- **CSS:** For styling and layout, including Flexbox and Grid for responsive design.
 - **JavaScript (optional):** Can be used for dynamic content loading and additional interactivity.
 - **Google Fonts:** For modern typography.
 
