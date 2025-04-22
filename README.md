@@ -39,6 +39,8 @@ Welcome to my Akan Name Generator! This a project where you are being provided a
   
 
   ## Known Bugs
+
+  . There are currently no known bugs or issues .Everything is functioning as expected
   
 
 
