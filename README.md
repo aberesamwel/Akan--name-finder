@@ -29,6 +29,9 @@ Welcome to my Akan Name Generator! This a project where you are being provided a
 
    4.Hit Enter and enjoy the site!
 
+
+   ## Platform Compatibility:
+
   
 
   
