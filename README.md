@@ -24,8 +24,8 @@ Welcome to my Akan Name Generator! This a project where you are being provided a
 
   3.Enter the following URL in the address bar 
 
-  >  
 
+  > https://aberesamwel.github.io/Akan--name-finder/
   
 
   
