@@ -34,6 +34,8 @@ Welcome to my Akan Name Generator! This a project where you are being provided a
 
    . Works best on windows and modern web browsers
 
+   . No installation,dependecies,or configuration files are required
+
   
 
   
