@@ -12,7 +12,10 @@ Welcome to my Akan Name Generator! This a project where you are being provided a
 - **CSS:** For styling and layout, including Flexbox and Grid for responsive design.
 - **JavaScript (optional):** Can be used for dynamic content loading and additional interactivity.
 - **Google Fonts:** For modern typography.
+
+- 
 ##Setup/Insatallation Requirements
+.To access the website,follow these simple steps
 
 
 1. **Clone the repository:**
