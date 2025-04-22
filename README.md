@@ -14,13 +14,17 @@ Welcome to my Akan Name Generator! This a project where you are being provided a
 - **Google Fonts:** For modern typography.
 
 - 
-##Setup/Insatallation Requirements
+## Setup/Insatallation Requirements
 
 .To access the website,follow these simple steps
 
   1.Ensure you have an internet browser installed (e.g.Google Chrome)
 
   2.open your browser
+
+  3.Enter the following URL in the address bar 
+
+  >  
 
   
 
