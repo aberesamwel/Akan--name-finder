@@ -38,6 +38,7 @@ Welcome to my Akan Name Generator! This a project where you are being provided a
 
   
 
+  ## Known Bugs
   
 
 
