@@ -20,6 +20,10 @@ Welcome to my Akan Name Generator! This a project where you are being provided a
 
   1.Ensure you have an internet browser installed (e.g.Google Chrome)
 
+  2.open your browser
+
+  
+
   
 
 
