@@ -32,6 +32,8 @@ Welcome to my Akan Name Generator! This a project where you are being provided a
 
    ## Platform Compatibility:
 
+   . Works best on windows and modern web browsers
+
   
 
   
